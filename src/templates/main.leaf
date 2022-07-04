@@ -1,0 +1,8 @@
+<component ::main>
+    <div>This is the main component</div>
+    <use ::button/>
+    <use ::container>
+        <div>Hello World</div>
+    </use>
+    <img src="./assets/girl.jpeg" alt="girl">
+</component>

@@ -1,0 +1,4 @@
+<component ::container>
+    <div>This is a container</div>
+    <children />
+</component>
